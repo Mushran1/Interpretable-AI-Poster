@@ -12,8 +12,11 @@ Model Evaluation: We evaluate the performance of the trained models and compare 
 
 ## Repository Structure:
 Code: Contains Python scripts for data preprocessing, model training, and evaluation.
+
 Data: Includes datasets used in the research, sourced from publicly available repositories.
+
 Results: Provides summary reports and visualizations of the model performance.
+
 References: Lists relevant literature and resources that informed our research.
 
 ## How to Use:
